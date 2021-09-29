@@ -1,4 +1,5 @@
 ## Olá! Tudo bem com você? Eu sou Luiz de Souza😊  
+- Formado em Analise e Desenvolvimento de Sistemas 2012-2014
 - 🌱 Cursando Certified Tech Developer (Digital House) 
 - 🧑🏻‍💻 SQL (03/08/2021 | 13/10/2021) 
 - 📧 Contate-me no email: inboxluizsouza@gmail.com
